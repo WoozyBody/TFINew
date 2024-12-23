@@ -1,0 +1,187 @@
+_genericGermanGear = [
+	
+	"BWA3_OpsCore_FastMT_Fleck","BWA3_OpsCore_FastMT_Peltor_Fleck","BWA3_OpsCore_FastMT_SOF_Fleck","BWA3_M92_Fleck","BWA3_Uniform2_Fleck","BWA3_Uniform2_sleeves_Fleck","BWA3_Uniform_Crye_G3_Fleck","BWA3_Uniform_Fleck","BWA3_Uniform_sleeves_Fleck","BWA3_Uniform_tee_Fleck","BWA3_Vest_Fleck","BWA3_Vest_Grenadier_Fleck","BWA3_Vest_MachineGunner_Fleck","BWA3_Vest_Marksman_Fleck","BWA3_Vest_Medic_Fleck","BWA3_Vest_Rifleman_Fleck","BWA3_Vest_Leader_Fleck","BWA3_Vest_JPC_Radioman_Fleck","BWA3_Vest_JPC_Rifleman_Fleck","BWA3_Vest_JPC_Leader_Fleck","BWA3_AssaultPack_Fleck","BWA3_AssaultPack_Fleck_Medic","BWA3_Carryall_Fleck","BWA3_FieldPack_Fleck","BWA3_Kitbag_Fleck","BWA3_Kitbag_Fleck_Medic","BWA3_PatrolPack_Fleck","BWA3_TacticalPack_Fleck","BWA3_TacticalPack_Fleck_Medic","BWA3_G_Combat_black","BWA3_G_Combat_clear","BWA3_G_Combat_orange","UK3CB_G_Balaclava_CHD","UK3CB_G_Balaclava2_BLK","UK3CB_G_Neck_Shemag_Oli","UK3CB_G_Neck_Shemag_Tan","UK3CB_G_Neck_Shemag","ltf_Beard1_1","ltf_Beard2_1","ltf_Beard3_1","ltf_ess_blclv2_ghst","ltf_ess_blclv_blk","ltf_ess_blclv_od","ltf_ess_blclv3_od","ltf_ess_bdn_grn","ltf_ess_bdn_od","ltf_ess_smgf_rgr","ltf_ess_smgn_grn","ltf_ess_smgn_gry","ltf_ess_smgn_mrn","ltf_ess_smgn_tan","ltf_m50","G_Balaclava_blk","G_Balaclava_Flecktarn","G_Balaclava_Skull1","G_Bandanna_beast","G_Bandanna_CandySkull","G_Bandanna_oli","G_Bandanna_Skull1","G_Bandanna_Syndikat1","G_Bandanna_Skull2","G_Bandanna_Vampire_01","G_Combat_Goggles_tna_F","G_Balaclava_TI_blk_F","G_AirPurifyingRespirator_01_F","G_Blindfold_01_black_F","G_Blindfold_01_white_F","CUP_G_RUS_Ratnik_Balaclava_A_Tacs_1","CUP_G_RUS_Ratnik_Balaclava_A_Tacs_2","CUP_G_RUS_Ratnik_Balaclava_A_Tacs_3","CUP_G_RUS_Ratnik_Balaclava_A_Tacs_4","CUP_G_RUS_Ratnik_Balaclava_Green_1","CUP_G_RUS_Ratnik_Balaclava_Green_2","CUP_Beard_Black","CUP_Beard_Blonde","CUP_Beard_Brown","CUP_PMC_Facewrap_Skull","CUP_PMC_Facewrap_Smilie","CUP_G_Grn_Scarf_GPS_Beard","CUP_G_Grn_Scarf_GPS_Beard_Blonde","G_Armband_blu_alt_F","G_Armband_blk_alt_F","G_Armband_grn_alt_F","G_Armband_org_alt_F","G_Armband_red_alt_F","G_Armband_pur_alt_F","G_Armband_yel_alt_F","G_Armband_wht_alt_F","G_Armband_NATO_alt_F","G_Headband_blk_alt_F","G_Headband_blu_alt_F","G_Headband_grn_alt_F","G_Headband_org_alt_F","G_Headband_pur_alt_F","G_Headband_pnk_alt_F","G_Headband_red_alt_F","G_Headband_yel_alt_F","G_Headband_wht_alt_F","kat_mask_M04","kat_mask_M50","rhsusf_shemagh_grn","rhsusf_shemagh2_grn","ItemcTab","ItemAndroid","ACE_IR_Strobe_Item","PJ_NVG3","PJ_NVG1","PJ_NVG2","Louetta_PVS31A_1","Louetta_PVS31A_1_gold","Louetta_PVS31A_1_alt","Louetta_PVS31A_2_gold","Louetta_PVS31A_3","Louetta_PVS31A_3_alt","Louetta_PVS31A_4_gold","Louetta_PVS31A_3_gold","Louetta_PVS31A_5","Louetta_PVS31A_5_alt","Louetta_PVS31A_6_gold","Louetta_PVS31A_5_gold","Louetta_PVS31A_2","Louetta_PVS31A_2_alt","Louetta_PVS31A_4","Louetta_PVS31A_4_alt","Louetta_PVS31A_6","Louetta_PVS31A_6_alt","Louetta_GPNVG_1_alt","Louetta_GPNVG_2_alt","Louetta_GPNVG_1_blk_alt","Louetta_GPNVG_2_blk_alt","Louetta_GPNVG_1_blk","Louetta_GPNVG_1_blk_gold","Louetta_GPNVG_2_blk","Louetta_GPNVG_2_blk_gold","Louetta_GPNVG_1_gold","Louetta_GPNVG_1","Louetta_GPNVG_2","Louetta_GPNVG_2_gold",
+
+	"SmokeShell"
+
+
+
+
+];
+
+_genericGermanWeapons = [
+
+	"BWA3_G27","BWA3_G36A1","BWA3_G36A1_green","BWA3_G36A1_tan","BWA3_G36A2","BWA3_G36A2_green","BWA3_G36A2_tan","BWA3_G36A3","BWA3_G36A3_green","BWA3_G36A3_tan","BWA3_G36KA0","BWA3_G36KA0_green","BWA3_G36KA0_tan","BWA3_G36KA1","BWA3_G36KA1_green","BWA3_G36KA1_tan","BWA3_G36KA2","BWA3_G36KA2_green","BWA3_G36KA2_tan","BWA3_G36KA3","BWA3_G36KA3_green","BWA3_G36KA3_tan","BWA3_G36KA4","BWA3_G36KA4_green","BWA3_G36KA4_tan","BWA3_G38","BWA3_G38_tan","BWA3_G38C","BWA3_G38C_tan","BWA3_G38K","BWA3_G38K_tan","BWA3_MP7","BWA3_P12","BWA3_P2A1","BWA3_P8","BWA3_RGW90_Loaded","BWA3_Fliegerfaust","crow_x26_blk_yellow","crow_x26","crow_x26_yellow","BWA3_Bunkerfaust_Loaded",
+
+	
+];
+
+_genericGermanAmmo = [
+	
+	"BWA3_Fliegerfaust_Mag"."BWA3_15Rnd_9x19_P8","BWA3_1Rnd_Flare_Singlestar_White","BWA3_1Rnd_Flare_Singlestar_Red","BWA3_1Rnd_Flare_Illum","BWA3_1Rnd_Flare_Singlestar_Green","BWA3_1Rnd_Flare_Multistar_White","BWA3_1Rnd_Flare_Multistar_Red","BWA3_1Rnd_Flare_Multistar_Green","BWA3_12Rnd_45ACP_P12","BWA3_20Rnd_762x51_G28","BWA3_20Rnd_762x51_G28_AP","BWA3_20Rnd_762x51_G28_Tracer_Dim","BWA3_20Rnd_762x51_G28_SD","BWA3_20Rnd_762x51_G28_Tracer","BWA3_20Rnd_762x51_G28_LR","BWA3_30Rnd_556x45_G36_Tracer_Dim","BWA3_30Rnd_556x45_G36_SD","BWA3_30Rnd_556x45_G36","BWA3_30Rnd_556x45_G36_Tracer","BWA3_30Rnd_556x45_G36_AP","BWA3_20Rnd_46x30_MP7","BWA3_20Rnd_46x30_MP7_SD","BWA3_40Rnd_46x30_MP7","BWA3_40Rnd_46x30_MP7_SD","BWA3_10Rnd_127x99_G82","BWA3_10Rnd_127x99_G82_AP_Tracer","BWA3_10Rnd_127x99_G82_AP","BWA3_10Rnd_127x99_G82_Tracer_Dim","BWA3_10Rnd_127x99_G82_SD","BWA3_10Rnd_127x99_G82_Tracer","BWA3_10Rnd_127x99_G82_Raufoss_Tracer_Dim","BWA3_10Rnd_127x99_G82_Raufoss_Tracer","BWA3_10Rnd_127x99_G82_Raufoss","BWA3_120Rnd_762x51_soft","BWA3_120Rnd_762x51_Tracer_soft","BWA3_120Rnd_762x51","BWA3_120Rnd_762x51_Tracer","BWA3_200Rnd_556x45","BWA3_200Rnd_556x45_Tracer",
+
+	"X26_Cartridge","X26_Cartridge_Yellow",
+
+	"1Rnd_SmokeBlue_Grenade_shell","1Rnd_SmokeGreen_Grenade_shell","1Rnd_SmokeOrange_Grenade_shell","1Rnd_SmokePurple_Grenade_shell","1Rnd_SmokeRed_Grenade_shell","1Rnd_Smoke_Grenade_shell","1Rnd_SmokeYellow_Grenade_shell","rhs_mag_m576","ACE_40mm_Flare_white","ACE_40mm_Flare_green","ACE_40mm_Flare_red","rhs_mag_M433_HEDP","rhs_mag_M397_HET","rhs_mag_M441_HE","rhs_mag_m4009","CUP_1Rnd_StarFlare_White_M203",
+
+	"BWA3_DM51A1","BWA3_DM32_Yellow","BWA3_DM32_Red","BWA3_DM32_Purple","BWA3_DM32_Orange","BWA3_DM32_Green","BWA3_DM32_Blue","BWA3_DM25","ACE_HandFlare_Green","ACE_HandFlare_Red","ACE_HandFlare_White","ACE_HandFlare_Yellow","ACE_CTS9","ACE_Chemlight_UltraHiOrange","ACE_Chemlight_IR","ACE_Chemlight_HiYellow","ACE_Chemlight_HiWhite","ACE_Chemlight_HiRed","ACE_Chemlight_HiGreen","ACE_Chemlight_HiBlue","ACE_M14","B_IR_Grenade","ACE_M84","KAT_M7A3","CUP_1Rnd_StarFlare_Green_M203","CUP_1Rnd_StarFlare_Red_M203"
+
+
+
+
+
+];
+
+_genericGermanAttachmentsAndScopes = [
+	
+	"BWA3_optic_CompM2","BWA3_optic_CompM2_green","BWA3_optic_CompM2_tan","BWA3_optic_MicroT1","BWA3_optic_MicroT2","BWA3_optic_EOTech552","BWA3_optic_EOTech552_green","BWA3_optic_EOTech552_tan","BWA3_optic_EOTech","BWA3_optic_EOTech_sand","BWA3_optic_EOTech_sand_Mag_Off","BWA3_optic_EOTech_Mag_Off","BWA3_optic_RSAS","BWA3_optic_RSAS_brown","BWA3_optic_RSAS_green","BWA3_optic_RSAS_riser","BWA3_optic_RSAS_sand","BWA3_optic_RSAS_tan","BWA3_optic_ZO4x30","BWA3_optic_ZO4x30_brown","BWA3_optic_ZO4x30_MicroT2","BWA3_optic_ZO4x30_MicroT2_brown","BWA3_optic_ZO4x30_RSAS","BWA3_optic_ZO4x30_RSAS_brown","BWA3_optic_ZO4x30i","BWA3_optic_ZO4x30i_MicroT2","BWA3_optic_ZO4x30i_MicroT2_sand","BWA3_optic_ZO4x30i_RSAS","BWA3_optic_ZO4x30i_RSAS_sand","BWA3_optic_ZO4x30i_sand","BWA3_acc_VarioRay_irlaser_black","BWA3_acc_VarioRay_irlaser","BWA3_acc_LLM01_irlaser","BWA3_acc_LLM01_irlaser_green","BWA3_acc_LLM01_irlaser_tan","muzzle_snds_B_lush_F","BWA3_muzzle_snds_Rotex_IIA","BWA3_bipod_MG3","BWA3_muzzle_snds_QDSS","BWA3_muzzle_snds_QDSS_green","BWA3_muzzle_snds_QDSS_tan","BWA3_muzzle_snds_Rotex_IIIC","BWA3_muzzle_snds_Rotex_IIIC_green","BWA3_muzzle_snds_Rotex_IIIC_tan","BWA3_bipod_Harris","BWA3_bipod_Harris_green","BWA3_bipod_Harris_tan","BWA3_bipod_Atlas"
+
+	
+];
+
+_genericItems = [
+
+	"ACE_fieldDressing","ACE_elasticBandage","ACE_packingBandage","ACE_quikclot","ACE_bloodIV_250","ACE_personalAidKit","ACE_splint","ACE_tourniquet","kat_Carbonate","kat_chestSeal","ACE_bloodIV","ACE_bloodIV_500","ACE_bodyBag","ACE_bodyBag_blue","ACE_bodyBag_white","ACE_epinephrine","ACE_morphine","ACE_surgicalKit","kat_IV_16","kat_aatKit","kat_accuvac","kat_X_AED","kat_AED","kat_plate","kat_BVM","kat_clamp","kat_coag_sense","kat_Painkiller","kat_vacuum","kat_EACA","kat_IO_FAST","KAT_Empty_bloodIV_250","KAT_Empty_bloodIV_500","kat_guedel","kat_handWarmer","kat_ultrasound","kat_IFAK","kat_larynx","kat_suction","kat_MFAK","kat_naloxone","kat_nasal","kat_Penthrox","kat_oxygenTank_150","kat_oxygenTank_300","kat_pocketBVM","kat_Pulseoximeter","kat_scalpel","kat_stethoscope","kat_retractor","kat_TXA","ACE_CableTie","ACE_EarPlugs","ACE_IR_Strobe_Item","ace_marker_flags_black","ace_marker_flags_blue","ace_marker_flags_green","ace_marker_flags_orange","ace_marker_flags_purple","ace_marker_flags_red","ace_marker_flags_white","ace_marker_flags_yellow","ACE_SpraypaintBlack","ACE_SpraypaintBlue","ACE_SpraypaintGreen","ACE_SpraypaintRed","ACE_SpraypaintWhite","ACE_SpraypaintYellow","ACE_UAVBattery","kat_gasmaskFilter","ToolKit","ACE_RangeTable_82mm","ACE_artilleryTable","ACE_DAGR","ACE_EntrenchingTool","ACE_Fortify","ACE_Flashlight_MX991","ACE_Flashlight_XL50","ACE_MapTools","ACE_microDAGR","acex_intelitems_notepad","ACE_PlottingBoard","ACE_wirecutter","uh60_jvmf_tablet","ItemcTabHCam","ACE_HuntIR_monitor","uh60_jvmf_tablet",
+
+
+	
+];
+
+_germanCommunicationEquipment = [
+
+	"TFAR_rt1523g_bwmod","UK3CB_LNM_B_B_CARRYALL_RADIO_FLK_01","UK3CB_LNM_B_B_CARRYALL_RADIO_FLK_02","UK3CB_LNM_B_B_CARRYALL_RADIO_FLK_03","UK3CB_ION_B_B_RadioBag_OLI","ItemcTab"
+];
+
+
+
+
+
+missionNamespace getVariable "TFI_Arsenals" apply 
+{ 
+	_box = _x;
+	[_box, true, false] call ace_arsenal_fnc_removeVirtualItems;
+	switch (_role) do {
+default {
+	[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + [
+
+			"SmokeShell"
+			
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]Sapper": {
+		[_box, _genericGear + _genericWeapons + _genericAmmo + _genericAttachmentsAndScopes + _genericItems + [
+
+			"ACE_VMM3"
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]TeamLeader": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + _germanCommunicationEquipment + [
+
+			"",
+
+	
+		],false] call ace_arsenal_fnc_initBox;
+	};
+	
+case "[G]SectionLeader": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + _germanCommunicationEquipment +  [
+
+			"",
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]PlatoonLeader": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + _germanCommunicationEquipment +  [
+
+			"",
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]Platoon2IC": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + _germanCommunicationEquipment +  [
+
+			"",
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]JTAC": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + _germanCommunicationEquipment + [
+			
+			"",
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]UAV Operator": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + [
+
+			"B_UavTerminal",
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]Commander": {
+		[_box, 
+
+
+		true,false] call ace_arsenal_fnc_initBox;
+	};
+	
+case "[G]Pilot": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + [
+			 
+			"BWA3_Uniform_Helipilot","BWA3_CrewHelmet_NH90","BWA3_Knighthelm","BWA3_TopOwl","BWA3_TopOwl_nvg"
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+	
+case "[G]Marksman": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + _germanCommunicationEquipment + _marksmanItemsB + [
+			
+			"BWA3_Booniehat_Fleck","BWA3_Uniform2_Ghillie_Fleck","BWA3_Uniform_Ghillie_Fleck","Louetta_Ghillie_6","Louetta_Ghillie_5","Louetta_Ghillie_7","Louetta_Ghillie_9","Louetta_Ghillie_8","Louetta_Ghillie_10","Louetta_Ghillie_3","Louetta_Ghillie_2","Louetta_Ghillie_4","ACE_ATragMX","ACE_Kestrel4500","ACE_Flashlight_KSF1","ACE_RangeCard","ACE_SpottingScope","ACE_Tripod","BWA3_G28","BWA3_G29","BWA3_10Rnd_86x70_G29","BWA3_10Rnd_86x70_G29_Tracer","BWA3_bipod_Harris_tan","BWA3_muzzle_snds_Rotex_Monoblock","BWA3_optic_PMII_ShortdotCC","BWA3_optic_PMII_DMR","BWA3_optic_PMII_DMR_MicroT1_front","BWA3_optic_PMII_DMR_MicroT1_rear","BWA3_optic_M5Xi_MSR","BWA3_optic_M5Xi_MSR_MicroT2","BWA3_optic_M5Xi_Tremor3","BWA3_optic_M5Xi_Tremor3_MicroT2","BWA3_optic_Hensoldt","BWA3_G82","BWA3_10Rnd_127x99_G82","BWA3_10Rnd_127x99_G82_AP_Tracer","BWA3_10Rnd_127x99_G82_AP","BWA3_10Rnd_127x99_G82_Tracer_Dim","BWA3_10Rnd_127x99_G82_SD","BWA3_10Rnd_127x99_G82_Tracer","BWA3_10Rnd_127x99_G82_Raufoss_Tracer_Dim","BWA3_10Rnd_127x99_G82_Raufoss_Tracer","BWA3_10Rnd_127x99_G82_Raufoss",
+			
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]Gunner": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + _gunnerAmmo + _gunnerItemsB + [
+			 
+			"BWA3_MG3","BWA3_MG4","BWA3_MG5","BWA3_MG5_tan"
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]Medic": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + [
+			 
+			"",
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]Grenadier": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + [
+			 
+			"BWA3_G27_AG40","BWA3_G27_AG40_tan","BWA3_G36A1_AG40","BWA3_G36A1_AG40_green","BWA3_G36A1_AG40_tan","BWA3_G36A2_AG40","BWA3_G36A2_AG40_green","BWA3_G36A2_AG40_tan","BWA3_G36A3_AG40","BWA3_G36A3_AG40_green","BWA3_G36A3_AG40_tan","BWA3_G38_AG40","BWA3_G38_AG40_tan","BWA3_G38K_AG40","BWA3_G38K_AG40_tan"
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+case "[G]AT Rifleman": {
+		[_box, _genericGermanGear + _genericGermanWeapons + _genericGermanAmmo + _genericGermanAttachmentsAndScopes + _genericItems + [
+			 
+			"BWA3_CarlGustav","BWA3_CarlGustav_HE","BWA3_CarlGustav_HEAT","BWA3_CarlGustav_HEDP","BWA3_CarlGustav_Illum","BWA3_CarlGustav_Smoke","BWA3_PzF3_Tandem_Loaded","BWA3_RGW90_Loaded"
+
+		],false] call ace_arsenal_fnc_initBox;
+	};
+
+
+  };
+
+};
